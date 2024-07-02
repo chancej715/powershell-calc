@@ -1,1 +1,1 @@
-Invoke-Mimikatz
+Start-Process -FilePath "calc.exe"
